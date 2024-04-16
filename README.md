@@ -8,9 +8,13 @@ Overview:
 
 This application allows users to simulate and analyze the power consumption and associated costs for different households. It offers functionalities to add various types of consumers (Immobile, Mobile, Solar) to a household, input household details, move devices within a household, and write/read data to/from a file.
 Getting Started:
+![Archeticture](https://github.com/Omranjr/Power-Consumption-App/assets/156198295/af7d4029-01a9-4358-bd68-15fcd69a6ddf)
+
 
 
 Usage:
+![Screenshot 2024-04-16 041512](https://github.com/Omranjr/Power-Consumption-App/assets/156198295/acd56b75-0564-4173-afaa-30492ed38de0)
+
 
     h: Initialize a new house.
     i: Add an immobile consumer to a household.
